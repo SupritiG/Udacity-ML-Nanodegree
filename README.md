@@ -1,4 +1,5 @@
 # Machine Learning Projects
+This repository consists of projects completed as part of Udacity machine learning nanodegree
 
 ## Framework
 - Python 3.x, Jupyter notebooks
