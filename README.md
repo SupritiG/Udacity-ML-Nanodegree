@@ -6,7 +6,9 @@ This repository consists of projects completed as part of Udacity machine learni
 - Scikit-learn, Pandas, Numpy, Matplotlib
 
 ## Full Project List
-- Boston Housing Prices
+
+- Boston Housing Prices : Using supervised learning to predict housing prices in Boston
+
 - Capstone
 - Customer Segments
 - Digit Recognition
