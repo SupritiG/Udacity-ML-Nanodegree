@@ -1,15 +1,8 @@
-# machine-learning
-Content for Udacity's Machine Learning curriculum, which includes projects and their descriptions.
+# Machine Learning Projects
 
-Consists of projects completed as part of Udacity Machine Learning Nanodegree Program
-
-## Completed Projects
-- Boston Housing : Using supervised learning techniques to predict housing prices in Boston 
-
-- Finding Donors : Using supervised learning (SVM and Gradient Boosting) to compute income level of a person based on features such as education level, assets, family information
-
-- Titanic Survival Exploration : Exploring features to predict whether a person on board RMS Titanic survived
-
+## Framework
+- Python 3.x, Jupyter notebooks
+- Scikit-learn, Pandas, Numpy, Matplotlib
 
 ## Full Project List
 - Boston Housing Prices
